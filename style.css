@@ -21,8 +21,9 @@ body{
 }
 
 #imagem1{
-    width: 70%;
+    width: 60%;
     display: block;
     margin: auto;
     border: solid 4px white;
+    padding: 30px;
 }
